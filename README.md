@@ -1,3 +1,4 @@
+![](https://github.com/kittycatgirl/projetoMAX/blob/main/maxLogo.png)
 # M.A.X = Xtreme Algorithmic Medicine ou Medicina Algorítmica Extrema
 Seu maior objetivo é a "Sua saúde sem demora! (Your health without delay!)"
 
@@ -32,6 +33,7 @@ Quando colocado para funcionar, o M.A.X. apresenta ao funcionário do atendiment
 Mas depois de muito vasculhar fóruns e sites no geral (muito mesmo) acabei vendo certas linhas de código que pareciam fazer sentido para a minha situação. Descobri a importância de saber como usar as colunas qualitativas, como converter elas para poder fazer testes mas sem tirar o seu real valor que é ser uma “qualidade”, separando elas de antemão dos quantitativos, e falando neles, tratei deles também e fui descobrindo alguns que precisavam ser convertidos a numeral. Sendo sincera ainda é um pouco confuso para mim, mas fiquei feliz quando meu achismo acabou dando um resultado e saindo dos erros.
 Logo mais fiz o famoso separamento para treino e separamento para teste com quatro variáveis cada um com 2, depois botei o modelo escolhido para funcionar usando as variáveis de treinamento e deu tal resultado que parece ter sido bom ou pelo menos aceitável:
 
+![](https://github.com/kittycatgirl/projetoMAX/blob/main/resultadoAceitavel.jpg)
 
 Por ultimo mas não menos importante usei os dados que foram separados para testes, coloquei uma parte junto com o modelo em uma variável ‘prever’/’predict’, depois fui testar com as métricas de avaliação para ver o quão o modelo tinha conseguido errar e ao meu ver foram bons resultados. Ao final coloquei um código para salvar o modelo, mas na realidade só usei por recomendação e não entendi para que serve.
 
